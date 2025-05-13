@@ -1,4 +1,4 @@
-# SWORD-ART-ONLINE-Alicization-Lycoris-Ultrawide-Patch
+# SWORD ART ONLINE Alicization Lycoris Ultrawide Patch
 
 **Disclaimer**
 
