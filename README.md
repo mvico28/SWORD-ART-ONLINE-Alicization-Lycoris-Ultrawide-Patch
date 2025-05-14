@@ -30,7 +30,7 @@ Other adjustments for ultrawide:
 
 **How to install**
 
-Extract the .zip file to the game's installation directory. Open the config.ini and write your resolution in **width** and **height**. Optionally you can adjust the blooming if you want, I already have a good middle ground here. 
+Extract the .zip file to the game's installation directory. Open the config.ini and write your resolution in **width** and **height**, then click **save**. Optionally you can adjust the blooming if you want, I already have a good middle ground here. 
 
 **CAUTION:** To avoid being banned, launch the game via the **Steam UI**. Check the launch settings beforehand to make sure you have not permanently selected any launch option otherwise a small launcher will appear asking if you want to play single-player or multiplayer. Select **single play mode** and EAC will not be activated. **Remember** to delete the files or place them outside the game folder when you switch back to multiplayer.
 ![Screenshot 2025-05-13 210220](https://github.com/user-attachments/assets/ebe6939b-5951-46de-844b-79f1b6dd0d1f)
